@@ -3,7 +3,7 @@
 ## 简介
 这是一个使用了springboot+springSecurity+jwt+SnowflakeldWorker实现的基于token的权限管理的一个demo,代码规范符合阿里巴巴Java开发手册
 
-具体说明可以看 **[这里](https://github.com/pistachio66/springboot-security-jwt/master/HELP.md)**
+具体说明可以看 **[这里](https://github.com/pistachio66/springboot-security-jwt-snowflake/blob/master/README.md)**
 
 ## 使用
 修改`application.properites`的数据库的一些配置信息，然后就可以运行了。
